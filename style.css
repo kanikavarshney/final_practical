@@ -1,0 +1,144 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: black;
+    display: inline-flex;
+    width: 100%;
+    height:80%;
+    justify-items: center;
+}
+.header h1{
+    color: white;
+    margin: 10px 10px;
+    margin-left: 200px;
+    margin-top: 20px;
+    font-family: arial;
+}
+.header ul{
+    list-style: none;
+    color: grey;
+    display: inline-flex;
+    margin:30px;
+    font-family: arial;
+}
+.header ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+.header ul li a{
+    text-decoration: none;
+    color: gray;
+}
+button{
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    margin: 10px 10px;
+    border-radius: 30px;
+    border: 2px solid  green;
+    color: white;
+    background: green;
+    cursor: pointer;
+    margin-top: 20px;
+    font-family: arial;
+    
+
+}
+.content{
+    display: inline-flex;
+    justify-content: space-between;
+    font-family: arial;
+    position: relative;
+}
+.image{
+    height: 50px;
+    padding: 40px;
+}
+.aa{
+    display: inline-flex;
+    
+}
+.bb{
+    display: inline-flex;
+    margin-top: 70px;
+}
+.cc{
+    display: inline-flex;
+    margin-top: 70px;
+}
+.dd{
+    display: inline-flex;
+    margin-top: 70px;
+}
+.abcd{
+    font-size: large;
+    padding: 70px;
+}
+.aa p{
+    margin-top: 10px;
+    color: gray;
+    font-size: medium;
+}
+.bb p{
+    margin-top: 10px;
+    color: gray;
+    font-size: medium;
+}
+.cc p{
+    margin-top: 10px;
+    color: gray;
+    font-size: medium;
+}
+.dd p{
+    margin-top: 10px;
+    color: gray;
+    font-size: medium;
+}
+.a{
+    margin-left: 20px;
+}
+.b{
+    margin-left: 20px;
+}
+.c{
+    margin-left: 20px;
+}
+.d{
+    margin-left: 20px;
+}
+.fa-book{
+    color: green;
+}
+.fa-pie-chart{
+    color: green;
+}
+.fa-picture-o{
+    color: green;
+}
+.fa-modx{
+    color: green;
+}
+.aa h1{
+    font-size: larger;
+}
+.bb h1{
+    font-size: larger;
+}
+.cc h1{
+    font-size: larger;
+}
+.dd h1{
+    font-size: larger;
+}
+.fa-arrow-circle-up{
+    color: green;
+    margin-top: 550px;
+    padding-right: 40px;
+    
+    
+}
